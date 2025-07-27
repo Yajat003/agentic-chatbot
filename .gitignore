@@ -1,1 +1,3 @@
 venv_aia/
+*.py[cod]
+__pycache__/

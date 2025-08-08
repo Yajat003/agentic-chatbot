@@ -1,7 +1,7 @@
 import streamlit as st
 from src.langgraphagenticai.ui.streamlitui.loadui import LoadStreamlitUI
 
-def load_langrgraph_agenticai_app():
+def load_langgraph_agenticai_app():
     """
     Loads and runs LangGraph AgentiAI app using Streamlit.
 
